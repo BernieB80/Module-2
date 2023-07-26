@@ -1,0 +1,16 @@
+/* 1. Text color and background */
+
+.text {
+  color: tomato;
+  background-color: black;
+}
+
+/* 1. color name */
+.color-name {
+  color: yellow;
+}
+
+/* 2. rgb */
+.rgb {
+  color: rgb(255, 0, 0);
+}
